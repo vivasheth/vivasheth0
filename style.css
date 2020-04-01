@@ -81,14 +81,12 @@ footer img   {
 
 /* styling our main content */
 .hero           {
-  min-height: 800px;
+  min-height: 700px;
   text-align: center;
   background-image: url('/Users/apple/Documents/GitHub/vivasheth.github.io/vivasheth.io/viva.jpg');
   background-size: cover;
 }
-div {
-  opacity: 0.5;
-}
+
 .hero-content   {
   color: #FFF;
   padding-top: 130px;
